@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **iQGateway**
 
-- 🌱 I’m currently learning **AWS,DevOps,Kubernetes,Docker,Jenkins,Ansible,Terraform**
+- 🌱 I’m currently learning **AWS,DevOps,Kubernetes,Docker,Jenkins,Ansible,Terraform,,Prometheus and Grafana**
 
-- 👯 I’m looking to collaborate on **DevOps**
+- 👯 I’m looking to collaborate on **DevOps,DevSecOps,Cyber Security**
 
 - 🤝 I’m looking for help with **VYE**
 
